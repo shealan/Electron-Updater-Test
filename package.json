@@ -1,0 +1,20 @@
+{
+    "name": "nfsa-quiz",
+    "version": "1.0.0",
+    "author": "Shealan Forshaw",
+    "homepage": "http://mentallyfriendly.com",
+    "description": "An example of an autoupdating electron app",
+    "repository": "https://github.com/ZaninAndrea/electron-autoupdate-example",
+    "main": "electron.js",
+    "dependencies": {
+        "electron-updater": "^2.21.10"
+    },
+    "scripts": {
+            "build": "build --mac",
+            "ship": "build --mac -p always"
+        },
+    "devDependencies": {
+        "electron": "^2.0.3",
+        "electron-builder": "^20.15.1"
+    }
+}

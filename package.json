@@ -4,7 +4,7 @@
     "author": "Shealan Forshaw",
     "homepage": "http://mentallyfriendly.com",
     "description": "An example of an autoupdating electron app",
-    "repository": "https://github.com/ZaninAndrea/electron-autoupdate-example",
+    "repository": "https://github.com/shealan/Electron-Updater-Test",
     "main": "electron.js",
     "dependencies": {
         "electron-updater": "^2.21.10"

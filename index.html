@@ -12,12 +12,12 @@
         ipcRenderer.on('updateReady', function(event, text) {
             // changes the text of the button
             var container = document.getElementById('ready');
-            container.innerHTML = "new version ready!";
+            container.innerHTML = "Update Available! Click to restart.";
         })
     </script>
-    Version: <span id="version">v1.1.0</span>
+    Version: <span id="version">v1.0.0</span>
     <!-- the button onClick sends a quitAndInstall message to the electron main process -->
-    <button id="ready" onClick="ipcRenderer.send('quitAndInstall')">no updates ready</button>
+    <button id="ready" onClick="ipcRenderer.send('quitAndInstall')">No Updates Available</button>
 
 </body>
 

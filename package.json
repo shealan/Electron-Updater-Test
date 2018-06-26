@@ -2,7 +2,7 @@
     "name": "electron-updater-test",
     "version": "1.0.0",
     "author": "Shealan Forshaw",
-    "homepage": "http://mentallyfriendly.com",
+    "homepage": "http://shealanforshaw.com",
     "description": "An example of an autoupdating electron app",
     "repository": "https://github.com/shealan/Electron-Updater-Test",
     "main": "electron.js",

@@ -1,6 +1,6 @@
 {
-    "name": "nfsa-quiz",
-    "version": "1.0.1",
+    "name": "electron-updater-test",
+    "version": "1.0.0",
     "author": "Shealan Forshaw",
     "homepage": "http://mentallyfriendly.com",
     "description": "An example of an autoupdating electron app",

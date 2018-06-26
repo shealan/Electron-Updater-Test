@@ -1,6 +1,6 @@
 {
     "name": "electron-updater-test",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Shealan Forshaw",
     "homepage": "http://shealanforshaw.com",
     "description": "An example of an autoupdating electron app",
